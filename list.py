@@ -1,4 +1,4 @@
-listku = [20,40,50,10,80,50,30,40,70]
+listku = [20,40,50,10,80,50,30,40,70,80,90,60]
 print (f'listku: {listku}')
 print (f'mengambil listku berdasarkan index: {listku[-2]}')
 print (f'slicing: {listku[2:5]}')
