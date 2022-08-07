@@ -1,4 +1,4 @@
-tupleku = (40,50,10,30,50,80)
+tupleku = (40,50,10,30,50,60,90)
 print (f"tupleku:{tupleku}")
 tuplemu = (54, 7.4, False, 'Hello world', [32,'xyz'])
 print (f'tuplemu:{tuplemu}')

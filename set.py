@@ -1,6 +1,6 @@
 s1 = {1,2,3,4}
 s2 = {3,4,5,6}
-s3 = {5,6,7,8}
+s3 = {5,6,3,7}
 
 # menggabungkan set
 set_gabungan = s1.union(s2,s3)
